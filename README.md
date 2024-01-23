@@ -1,2 +1,2 @@
-# A mini project
+# A mini project.
 Using Html, Css & Javascript only.
